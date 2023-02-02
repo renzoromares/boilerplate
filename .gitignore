@@ -1,0 +1,13 @@
+/*** File Type ***/
+*.log
+*.csv
+*.out
+*.pid
+!.gitignore
+
+/*** Files ***/
+package-lock.json
+yarn.lock
+
+/*** Folder ***/
+node_modules
